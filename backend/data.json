@@ -1,0 +1,14 @@
+[
+    {
+        "username": "abhigyan",
+        "password": "password is a secret"
+    },
+    {
+        "username": "pryansh",
+        "password": "password is another secret"
+    },
+    {
+        "username": "prasum",
+        "password": "password is other secret"
+    }
+]
